@@ -1,0 +1,34 @@
+ 1.PWD -print working directory
+     
+        => it means it displays the current directory path.
+
+ 2.cd - change directory
+     
+        => it is used to navigate the directory or folder that we want.
+   cd .. => to navigate to the parent directory of the current directory.
+
+
+ 3. ls - to list the files and directories in a specified directory.
+
+ 4. mkdir - used to create a new directory (or folder) in the file system.
+
+ 5. touch - to create an empty file or update the timestamp of an existing file without modifying its content. 
+
+ 6. cat - used to display the contents of one or more files to the standard output 
+
+ 7. vi - used to open the Vi editor. It is often used for editing configuration files, writing scripts, and other text editing tasks on the terminal.
+
+ 8. mv -  is used for moving or renaming files and directories. The name mv stands for "move."
+
+ 9. cp - used to copy files and directories from one location to another. It allows you to create duplicates of files or directories, either within the same file system or across different file systems.
+
+ 10. nvm - stands for Node Version Manager. It is a tool used for managing multiple versions of Node.js on a single system.You can use nvm to install different versions of Node.js.
+
+
+ 11. npm -  It is the default package manager for Node.js and is used for managing packages (libraries or modules) in Node.js projects. 
+
+ 12. node - command is used to run Node.js applications and scripts.
+
+ 13. git - Git helps track changes in source code during software development, allowing multiple people to collaborate on projects, maintain history, and manage different versions of code.
+
+ 
